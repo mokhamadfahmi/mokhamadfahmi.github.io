@@ -1,11 +1,6 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here[cite: 3]
-
-cv_pdf: /assets/pdf/example_pdf.pdf[cite: 3]
-email: mokhamadfahmi@gmail.com[cite: 3]
-scholar_userid: zIynZWUAAAAJ[cite: 3]
+cv_pdf: /assets/pdf/example_pdf.pdf
+email: mokhamadfahmi@gmail.com
+scholar_userid: zIynZWUAAAAJ
 scopus_id: 57209253616
-linkedin_username: mokhamadfahmi[cite: 3]
+linkedin_username: mokhamadfahmi
 research_gate_profile: Mokhamad-Syaban
-
-# rss_icon: true[cite: 3]
