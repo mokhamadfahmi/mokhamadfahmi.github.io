@@ -8,8 +8,8 @@ profile:
   align: right
   image: fahmi.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-  <p>Department of Pharmacologyy</p>
+  more_info: |
+  <p>Department of Pharmacology</p>
   <p>Miyazaki, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
