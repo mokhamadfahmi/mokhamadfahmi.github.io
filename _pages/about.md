@@ -22,8 +22,8 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 0 # leave blank to include all the blog posts
 ---
 
 I am a fourth-year PhD candidate in the Department of Pharmacology at the University of Miyazaki, Japan, with a profound passion for molecular science, cytoskeletal biology, and their critical implications in cancer. My research focuses on bridging computational predictions with experimental validation to understand how cytoskeletal dynamics influence cellular behavior and pathology.
