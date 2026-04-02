@@ -485,6 +485,13 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/Mokhamad-Syaban/", "_blank");
         },
       },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/CV_M_Fahmi.pdf", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
