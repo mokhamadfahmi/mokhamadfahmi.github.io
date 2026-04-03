@@ -4,12 +4,8 @@
     "label": "Medical Doctor & Doctoral Candidate",
     "image": "",
     "email": "mokhamadfahmi@gmail.com",
-    "phone": "+6282237697040",
-    "summary": "Doctoral candidate at the University of Miyazaki, Japan. Experienced Medical Doctor with a strong background in Molecular Basic scinece, Biology molecular and Bioinformatics.",
+    "summary": "Doctoral candidate at the University of Miyazaki, Japan. Experienced Medical Doctor with a strong background in Molecular Basic science, Biology molecular and Bioinformatics.",
     "location": {
-      "address": "Jl. Pandean Kidul Baru Rt 004, Rt 008 Bangil",
-      "postalCode": "67153",
-      "city": "Pasuruan",
       "countryCode": "ID",
       "region": "East Java"
     },
@@ -95,7 +91,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Lembaga Studi Mahasiswa Ilmiah (LSMI)",
+      "organization": "Lembaga Studi Mahasiswa Ilmiah (LSIM)",
       "position": "Vice Head of Research and Development Division",
       "startDate": "2018",
       "endDate": "2019",
