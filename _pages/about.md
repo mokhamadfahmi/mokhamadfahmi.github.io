@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Pharmacology</p>
-    <p>Miyazaki, Japan</p>
+    <p>University of Miyazaki, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,8 +26,10 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year PhD candidate in the Department of Pharmacology at the University of Miyazaki, Japan, with a profound passion for molecular science, cytoskeletal biology, and their critical implications in cancer. My research focuses on bridging computational predictions with experimental validation to understand how cytoskeletal dynamics influence cellular behavior and pathology.
+I am a fourth-year PhD candidate in the Department of Pharmacology at the University of Miyazaki, Japan, with a strong passion for molecular science and cytoskeletal biology. My research focuses on connecting computational predictions with experimental validation to better understand how changes in the cytoskeleton shape cellular behavior and contribute to disease.
 
-Currently, my work centers on protein structure prediction and molecular dynamics simulations to investigate the regulation of the actin cytoskeleton. By understanding these cytoskeletal alterations, I aim to uncover the mechanical and biochemical pathways that drive both cancer progression and the adverse effects of cancer treatments.
+Currently, I work on protein structure prediction and molecular dynamics simulations to explore how the actin cytoskeleton is regulated. Through this work, I hope to shed light on the mechanical and biochemical mechanisms underlying disease.
 
-I earned my Medical Degree from Universitas Brawijaya in Indonesia in 2021 and completed my clinical training as an internship doctor at RSUD Harjono Ponorogo and Puskesmas Balong. This foundational experience in clinical medicine continuously drives my commitment to translational research. I strive to integrate bioinformatics and biochemical approaches to generate meaningful insights in science, with broader interests in cytoskeleton and cancer. I am always open to connecting and collaborating with researchers and professionals who share a vision for scientific innovation and improving patient outcomes.
+I earned my medical degree from Universitas Brawijaya, Indonesia, in 2021, and completed my clinical internship at RSUD Harjono Ponorogo and Puskesmas Balong. My clinical background continues to inspire my interest in translational research, where I aim to bridge computational, biochemical, and clinical perspectives.
+
+I am particularly interested in integrating bioinformatics and experimental approaches to generate meaningful scientific insights. I’m always open to connecting and collaborating with others who are passionate about advancing science and improving patient outcomes.
